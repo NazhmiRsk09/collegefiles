@@ -50,6 +50,7 @@ int main(){
 	cout<<"\n3. Radium";
 	cout<<"\n4. Lithium";
 	cout<<"\n5. Argon";
+	InputStart:
 	cout<<"\nInput anda (1-5) : ";cin>>inputUser;
 	cout<<"\nInput Suhu \370C : ";cin>>inputTemp;cout<<endl;
 	
@@ -180,6 +181,7 @@ int main(){
 			break;
 			
 		default:
+			goto InputStart;
 			return 0;
 	}
 	return 0;
