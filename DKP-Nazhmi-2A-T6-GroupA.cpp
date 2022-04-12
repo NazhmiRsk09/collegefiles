@@ -18,6 +18,7 @@ using namespace std;
 
 int main(){
 	
+	
 	int inputUser, inputTemp;
 	string elementNumber[5] = {"Nickel", "Mercury", "Radium", "Lithium", "Argon"};
 	enum elementFase {Padat, Cair, Gas};
