@@ -1,17 +1,3 @@
-/*
-NAMA	: Nazhmi Fadhila
-NIM		: 2102411005
-ANGGOTA KELOMPOK:
-- Bagus Bayu Wijaya
-- NIM : 2102411011
-- Wisnu Fajar Nugroho
-- NIM : 2102411024
-- Abid Akmal
-- NIM : 2102411025
-- Satria Gymnastiar
-- NIM : 2102411028
-*/
-
 #include <iostream>
 #include <string>
 using namespace std;
